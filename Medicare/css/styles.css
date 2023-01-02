@@ -1,0 +1,180 @@
+body{
+    font-family: "Montserrat";
+}
+#title{
+    background-color: #3C6255;
+    color: #ffff;
+}
+
+#ab-title{
+    background-color: #3C6255;
+    color: #ffff;
+}
+
+.container-fluid{
+    padding:3% 15%;
+}
+
+h1{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Montserrat-Bold';
+    font-size:2rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: 'Montserrat-Bold';
+}
+
+
+p{
+    color: grey;
+}
+
+
+/*navigation bar*/
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family:"U";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 13px;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+}
+
+.dropdown-toggle:active{
+    color:#ffff;
+}
+
+/*title section*/
+
+.dwn-btn{
+    margin: 5% 3% 5% 0;
+}
+
+.top-img{
+    
+    width: 65%;
+    transform: rotate(25deg) ;
+}
+
+
+/*feature section*/
+
+.fa-features{
+    color: #3C6255;
+    margin: 0.5rem;
+}
+
+.fa-features:hover{
+    color: #61876E;
+}
+
+
+#features{
+  background-color: #EEEEEE;
+    padding: 7% 15%;
+}
+
+.feature-box{
+text-align: center;
+padding: 5%;
+}
+
+/*testimonies*/
+
+#testimonials{
+    background-color: #61876E;
+    text-align: center;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-image{
+    border-radius: 50%;
+    width: 10%;
+}
+
+em{
+    color: #ffff;
+    padding: 0 0 0 5%;
+    font-family: "Poppins", sans-serif;
+}
+
+#press{
+    background-color: #61876E;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    padding: 20px 20px 50px;
+}
+
+/*pricing section*/
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.card-item{
+   padding: 0 10; 
+   margin: auto;
+}
+
+/*cta*/
+
+#cta{
+    background-color: #61876E;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-h3{
+    font-size:3.5rem;
+    line-height: 1.5;
+    color: white;
+}
+
+/*footer*/
+
+#footer{
+    text-align: center;
+    padding: 100px 0 20% 0;
+}
+
+.footer-p{
+    font-family:"Poppins", sans-serif;
+    font-size: 1rem;
+    padding: 0;
+}
+
+.fa-footer{
+    padding: 0 25px 10px;
+    color: black;
+}
+
+/* About-us page */
+
+.abt-row{
+    padding: 10% 0 0 0;
+}
